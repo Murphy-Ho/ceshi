@@ -16,24 +16,4 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/Murphy-Ho/ceshi.git
 
-
-
-
-
-
-
-
-
-
-11111111111111
-
-11111111111111
-
-11111111111111
-
-
-
-
-
-
-44444444444444444
+12123123123
